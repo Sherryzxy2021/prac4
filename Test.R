@@ -7,3 +7,5 @@ library(gitcreds)
 gitcreds_set()  #填写token password
 
 use_github()    #connect R and Github
+
+#尝试一下push
