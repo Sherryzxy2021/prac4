@@ -11,4 +11,5 @@ use_github()    #connect R and Github
 #4.58 Push to Github
   #尝试一下push
   #今天的心情还不错
-# 有没有成功呢
+# pull
+
